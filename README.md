@@ -10,7 +10,7 @@ The following data exploration was conducted to identify whether these different
 
 Since the dataset explored in this code is a model 'toy' dataset, the iris dataset can be easily loaded from scikit-learn following the code included in the **Iris.ipynb** file. The dataset was initially named **" iris "**, however the code had to be modified to present the data in a tabular format, therefore the dataset was subsequently renamed as **" iris_df "**.
 
- ### To run the code within the **Iris.ipynb** file, open the **Iris.ipynb** file in JupyterLab and run the code as per the instructions / pipeline. ###
+ ### To run the code within the **Iris.ipynb** file, open the **Iris.ipynb** file in JupyterLab and run the code according to the chronological the instructions / pipeline. ###
  The code for loading the required software packages to fully explore the data as intended were all included within the code at each necessary point throughout the exploratory pipeline. 
 These packages include:
 - pandas

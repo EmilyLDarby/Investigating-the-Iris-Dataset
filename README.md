@@ -1,6 +1,9 @@
 # Investigating the Iris Dataset # 
 #### By Emily Darby ####
 
+The code created to investigate the iris dataset is available in the above file: ##### Iris.ipynb #####
+This can be opened and run in JupyterLabs, or alternatively the workflow can be followed in the text below.
+
 ## Background ##
 
 The iris dataset is a model 'toy' dataset within the scikit-learn website, which provides data about the size of three different species of iris. The species of interest include Setosa, Versicolor and Virginica. A total of 150 plants were measured in this study, with an even spread of 50 plants from each of the three species type. Four key measurements were taken from each plant, including the petal length, petal width, sepal length and sepal width. 

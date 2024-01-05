@@ -1,8 +1,7 @@
 # Investigating the Iris Dataset # 
 #### By Emily Darby ####
 
-The code created to investigate the iris dataset is available in the above file: **Iris.ipynb**
-This can be opened and run in JupyterLabs, or alternatively the workflow can be followed in the text below.
+The code created to investigate the iris dataset is available in the above file: **Iris.ipynb** . This can be opened and run in JupyterLabs, or alternatively the workflow can be followed in the text below.
 
 ## Background ##
 
